@@ -1,0 +1,17 @@
+{
+    "name": "AR CENTRAL SOLUTIONS",
+    "short_name": "AR REPORT",
+    "theme_color": "#181818",
+    "background_color": "#a5a5a5",
+    "display": "standalone",
+    "orientation": "portrait",
+    "scope": "./",
+    "star_url": "./",
+    "icons": [
+        { 
+            "src": "./img/logo_512.png",
+            "type": "image/pgn",
+            "sizes": "512x512"
+        }
+    ]
+}
